@@ -25,7 +25,7 @@ This project is a TypeScript-based application that interacts with the Solana bl
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tanish35/Blockchain-Tracker.git
+   git clone https://github.com/oxmanx8/Blockchain-Tracker.git
    cd solana-wallet-manager
    ```
 
